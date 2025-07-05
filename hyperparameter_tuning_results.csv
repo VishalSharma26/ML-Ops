@@ -1,0 +1,4 @@
+Model,BestParams,MSE,R2
+Ridge Regression,"{'alpha': 0.1, 'fit_intercept': True, 'solver': 'svd'}",24.301,0.6686
+Decision Tree,"{'max_depth': 6, 'min_samples_leaf': 2, 'min_samples_split': 2}",11.4421,0.844
+Random Forest,"{'max_depth': None, 'max_features': 'sqrt', 'n_estimators': 50}",10.6896,0.8542
